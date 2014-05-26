@@ -1,0 +1,26 @@
+## JavaScript
+-main TestMain
+-lib munit
+-lib hamcrest
+-lib ufront-analytics
+-cp src
+-cp test
+-D client
+
+-js build/js_test.js
+
+--next
+
+## Neko
+-main TestMain
+-lib munit
+-lib hamcrest
+-lib ufront-analytics
+-cp src
+-cp test
+-D server
+
+-neko build/neko_test.n
+
+--next
+

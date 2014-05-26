@@ -1,0 +1,16 @@
+{
+  "name": "ufront-analytics",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["ufront","web","analytics","metrics","A/B testing","log"],
+  "description": "An API to track events across your ufront application for the purpose of logging, analytics or A/B testing.",
+  "contributors": ["jason"],
+  "releasenote": "Initial release.",
+  "version": "0.0.1",
+  "url": "https://github.com/ufront/ufront-analytics",
+  "dependencies": {
+    "ufront-mvc": "",
+    "ufront-orm": "",
+    "ufront-easyauth": ""
+  }
+}
